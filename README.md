@@ -1,6 +1,11 @@
 ##Practising encapsulation and cohesion
 
-To open calculator class
+To open Calculator class
+
 `calculator.rb`
 
-####All test files can be found in spec directory.
+To open Display class
+
+`display.rb`
+
+####All test files can be found in the spec directory.
